@@ -138,7 +138,7 @@ This dataset and code are licensed under the [Creative Commons Attribution 4.0 I
 
 If you use this dataset or code, please cite:
 
-> Itoh, K. (2026). *Marmoset auditory ERP: frequency × intensity dataset and analysis pipeline* (v1.1.0). GitHub. https://github.com/kosukeitoh/marmoset-erp-freq-intensity
+> Itoh, K. (2026). *Marmoset auditory ERP: frequency × intensity dataset and analysis pipeline* (v1.2.0). GitHub. https://github.com/kosukeitoh/marmoset-aep-frequency-intensity
 
 ## Author
 

@@ -3,7 +3,7 @@
 BIDS-formatted EEG dataset from common marmosets (*Callithrix jacchus*) recorded during passive listening to pure tones varying in frequency (125–16000 Hz, 8 levels) and intensity (45, 60, 75 dB SPL).
 
 Analysis code and full documentation are available on GitHub:
-**https://github.com/kosukeitoh/marmoset-erp-freq-intensity**
+**https://github.com/kosukeitoh/marmoset-aep-frequency-intensity**
 
 ## Structure
 
