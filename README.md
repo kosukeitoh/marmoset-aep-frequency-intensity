@@ -2,6 +2,14 @@
 
 EEG dataset and analysis code for auditory evoked potentials (AEPs) recorded from common marmosets (*Callithrix jacchus*) during passive listening to pure tones varying in frequency and intensity.
 
+Kosuke Itoh, Naho Konoike, Kumiko Mashita, Katsuki Nakamura,
+Frequency, intensity, and reference dependence of scalp-recorded auditory evoked potentials in the common marmoset,
+Hearing Research, 2026, 109827, ISSN 0378-5955.
+(https://www.sciencedirect.com/science/article/pii/S0378595526002984)
+
+Abstract: Scalp-recorded auditory evoked potentials (AEPs) allow the same non-invasive metrics used in human auditory neuroscience to be applied to non-human primates, yet the basic acoustic response properties of AEPs in the common marmoset (Callithrix jacchus) remain poorly characterized. We recorded AEPs from two awake marmosets in response to pure tones spanning eight frequencies (125–16000 Hz) and three intensities (45–75 dB SPL), and quantified response magnitude as the global field power of five AEP components (P1, N1, P2, N2, and the late negativity, LN). AEP magnitude depended strongly on stimulus frequency, peaking at 1000 Hz for every component and animal and declining at both lower and higher frequencies. AEP magnitude also increased with intensity, and the two factors interacted for most components, with frequency tuning becoming more pronounced at higher intensities. We further compared three reference montages and found that reference choice strongly altered scalp polarity: the canonical positive–negative–positive P1–N1–P2 sequence was preserved with linked earlobes, whereas common median and common average references produced polarity reversals between frontal and parieto-occipital sites. These data suggest that marmoset AEPs carry a frequency dependence and a reference-dependent polarity that must be controlled when designing and interpreting more complex auditory paradigms such as oddball and mismatch negativity designs in this species.
+Keywords: nonhuman primate (NHP); cortical auditory evoked potential (CAEP); auditory P1; auditory N1; reference electrode; mismatch negativity (MMN)
+
 ## Overview
 
 Two adult male marmosets (sub-Cj399, sub-Cj459) were recorded with 8-channel scalp EEG while pure tones of 8 frequencies × 3 intensity levels were presented passively. The dataset is released in [BIDS](https://bids.neuroimaging.io/) format together with a reproducible Python analysis pipeline.
